@@ -10,7 +10,7 @@ Import numpy as np
 ### Step 2: 
 Assign matrix to any variable
 ### Step 3: 
-Using the np.linalg.inv(), we can find the rank of the given matrix.
+Using the np.linalg.inv(), we can find the inverse of the given matrix.
 ### Step 4: 
 Print the derived answer
 
